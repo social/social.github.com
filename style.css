@@ -1,0 +1,16 @@
+#container {
+	width: 810px;
+	height: 600px;
+	margin: 50px auto;
+	background: transparent url(/gitsocial-comingsoon.png) no-repeat 0 0;
+}
+h1 {
+	display: block;
+	overflow: hidden;
+	text-indent: -9999px;
+}
+p {
+	display: block;
+	overflow: hidden;
+	text-indent: -9999px;
+}
